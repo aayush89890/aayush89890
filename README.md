@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @aayush89890
-- 👀 I’m interested in developing good softwares
+- 👋 Hi, I’m Aayush Jain
+- 👀 I’m interested in learning new Tech
 - 🌱 I’m currently learning Angular and JAVA
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 How to reach me ayush8989049912@gmail.com
